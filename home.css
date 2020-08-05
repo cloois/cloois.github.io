@@ -1,0 +1,24 @@
+/* CSS Document */
+
+body {margin:100px 70% 40px 40px; padding:0px; background:url(me2.jpg) center top no-repeat #000; color:#e4e5d9; font:Normal 30px Georgia, "Times New Roman", Times, serif;}
+strong{color:#fff; font-weight:normal;}
+p{margin:0px 0px 20px 0px; padding:0px;}
+a{text-decoration:none; color:#ff424f;}
+a:hover{color:#83060f;}
+
+div.feed{display:inline; position:absolute; bottom:0px; right:0px; padding:40px; margin:0px 0px 0px 65%;}
+div.feed a{color:#fcad48;}
+div.feed a:hover{color:#c98022;}
+div.feed ul{font-size:18px;}
+
+div.location{position:absolute; top:60px; right:0px; padding:40px; margin:0px 0px 0px 70%;}
+div.location a{color:#dfea5f;}
+div.location a:hover{color:#bac261;}
+
+div.me{position:absolute; top:60; right:0px; padding:40px; margin:0px 0px 0px 60%;}
+div.me a{color:#dfea5f;}
+div.me a:hover{color:#bac261;}
+
+div.footer{position:absolute; bottom:0px; right:0px; padding:0px; margin:0px 0px 0px 65%;}
+div.footer a{color:#4a8a9d;}
+div.footer a:hover{color:#0d5266;}
