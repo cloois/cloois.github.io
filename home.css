@@ -19,6 +19,6 @@ div.me{position:absolute; top:60; right:0px; padding:40px; margin:0px 0px 0px 60
 div.me a{color:#dfea5f;}
 div.me a:hover{color:#bac261;}
 
-div.footer{position:absolute; bottom:0px; left:0px; padding:40px; margin:0px 0px 0px 65%;}
+div.footer{position:absolute; bottom:0px; right:0px; padding:40px; margin:0px 0px 0px 65%;}
 div.footer a{color:#4a8a9d;}
 div.footer a:hover{color:#0d5266;}
